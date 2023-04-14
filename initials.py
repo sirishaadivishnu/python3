@@ -1,5 +1,5 @@
 # Block Letters
-# Write a Python program that displays the initials of your name in block letters using ASCII art
+# A Python program that displays the initials of your name in block letters using ASCII art
 # Author: Sirisha Adivishnu
 print(" SSS ")
 print("S   S")

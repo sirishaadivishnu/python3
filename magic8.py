@@ -1,4 +1,4 @@
-# Write a magic8.py Python3 program that can answer any “Yes” or “No” question with a different fortune each time it executes.
+# magic8.py Python3 program that can answer any “Yes” or “No” question with a different fortune each time it executes.
 # Author: Sirisha Adivishnu
 import random
 name = "Sam"
