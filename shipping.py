@@ -1,4 +1,4 @@
-# A Python program that will take the weight of a package and determine the cheapest way to ship that package
+# A program that will take the weight of a package and determine the cheapest way to ship that package
 # Author: Sirisha Adivishnu
 weight = 80
 
