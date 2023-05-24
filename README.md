@@ -1,6 +1,6 @@
 # Programming Language: Python3
 
-This repository contains the programs that I wrote during my traineeship as a full stack developer. These programs cover a wide range of topics, including data structures, algorithms, functions and web development. There are hints of small bits and pieces of machine learning here and there as I gradually learn.
+This repository contains the programs that I wrote during my traineeship as a full stack developer. These programs cover a wide range of topics, including Control Flow, Lists, Loops, Functions, Strings, Dictionaries, Files & Classes. There are hints of small bits and pieces of machine learning here and there as I gradually learn.
 
 ## Getting Started
 
